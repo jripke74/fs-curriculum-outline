@@ -46,3 +46,43 @@ When you need to add a paragraph to a web page, you can use the p element like t
 
 <p>I am a paragraph element.</p>
 Turn your Learn all of the skills to become a full stack developer into a paragraph element.
+
+Step 7
+There are six heading elements in HTML. Here are all of them in order from most important to least:
+
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+Below your p element, add an h3 element that displays the following text:
+
+Introduction to HTML
+
+Step 8
+Notice that each heading looks a little different in the preview. Same with the paragraph.
+
+Next, add another p element that displays the following text:
+
+HTML represents the content and structure of a webpage
+
+Step 9
+You're getting the hang of it. Now it is time to add another h3 and p element to the page.
+
+First, add an h3 element with the text:
+
+Introduction to CSS
+Then, below that h3 element, add a p element with the following text:
+
+CSS is used to style a webpage
+
+Step 10
+For the last step of the workshop, you will add another h3 and p element to the page.
+
+First, add an h3 element with the text:
+
+Introduction to JavaScript
+Then, below that h3 element, add a p element with the following text:
+
+JavaScript adds interactivity to a webpage
